@@ -30,7 +30,7 @@ public class Actor {
 		
 		}
 	}
-	// helper method 1 returns the maximum int of two given ints
+	// helper method 1 returns the maximum value of two given ints
 	public int max(int int1, int int2) {
 		return Math.max(int1, int2);
 	}
